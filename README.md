@@ -164,7 +164,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![D47](https://github.com/user-attachments/assets/35605939-47a8-44b1-be3f-70328ec40b28)
 s/assets/6e0d6552-11af-4ceb-9c05-c06eeead33d8)
 
-![D48](https://github.com/user-attachment![D46](https://github.com/user-attachments/assets/7e5ed1d7-dee0-4606-a47d-901a9a21b2e2)
+![D48](https://github.com/user-attachments/assets/f973dd0c-2195-4115-bb8e-b21876634b6e)
 
 ## RESULT
 
